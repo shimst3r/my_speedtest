@@ -1,0 +1,11 @@
+# Dev
+black
+flake8
+ipython
+mypy
+
+# Prod
+jupyterlab
+pandas
+seaborn
+speedtest-cli
